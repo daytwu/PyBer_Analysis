@@ -12,14 +12,10 @@ An immediate difference that can be seen is on the pyber_summary_df when it come
 
 ![Total_Fare_by_City_Type](https://user-images.githubusercontent.com/68725398/97787142-bb7c8680-1b86-11eb-84c0-1becccec7ae0.png)
 
-For the multiple-line chart, there seems to be some fluctuations in terms of usage at the end of the month of Febuary to the beginning of April, more so for Urban cities compared to both Suburban and Rural. Suburban also had the most noticeable spike in usage right at the end of February to March.
-
-
-
-
-
-
-
+For the multiple-line chart, there seems to be some fluctuations in terms of usage at the end of the month of Febuary to the beginning of April, more so for Urban cities compared to both Suburban and Rural. Suburban also had the most noticeable spike in usage right at the end of February to March. The total fares for Urban cities are also almost five to six times higher than Rural cities at any given weeks.
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+There can be more resources allocated to Rural cities to help drive Pyber usage up in those cities. 
+
 
