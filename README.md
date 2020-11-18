@@ -16,6 +16,9 @@ For the multiple-line chart, there seems to be some fluctuations in terms of usa
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-There can be more resources allocated to Rural cities to help drive Pyber usage up in those cities. 
+One of the main problems for Rural cities seems to be the lack of driver avaialability in the area, which the high average fare per driver attests to. Perhaps there can be more resources allocated to Rural cities to help drive Pyber usage up in those cities, such as with marketing and advertisement to increase driver hires and make everything more accessible to the populance.
 
+Marketing and advertisement as mentioned above can also help with getting the word out to potential future Pyber users, not just driver hires. One of the biggest issues for advertisement in non Urban cities are that advertisement tends to be spread by mainly word of mouth. Increasing fundings and efforts in marketing and advertisements might cost more with a not as much of a return, but this is a business opportunity that should not be overlooked at.
+
+Finally, there could be bonus incentives given out to drivers in non-Urban cities to encourage drivers to be more availabile during certain times of the year. Looking at the fares and overall usage in the above chart, more people seems to be using Pyber whenever there seems to be weather changes in a month, from when the weather is cold, to stable to being warmer, people seems more willing to hail a ride with sudden weather changes.
 
